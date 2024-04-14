@@ -62,4 +62,28 @@
 - [指数衰减函数](https://blog.csdn.net/weixin_51133173/article/details/137729149)
 - [钟形脉冲函数](https://blog.csdn.net/weixin_51133173/article/details/137740395)
 
+### 周期信号
+- [信号采样率](https://blog.csdn.net/weixin_51133173/article/details/137745218)
+- [sin(wt)(整数频率): Fourier逆变换、变换](https://blog.csdn.net/weixin_51133173/article/details/137745688)
+- [sin(wt)(未知整数频率): Fourier逆变换、变换](https://blog.csdn.net/weixin_51133173/article/details/137747603)
+- [sin(wt)(非整数频率): Fourier逆变换](https://blog.csdn.net/weixin_51133173/article/details/137748117)
+    - [Fourier变换跟np.fft.fft()对比](https://blog.csdn.net/weixin_51133173/article/details/137748956)
+    - [Fourier变换跟scipy.fft.fft()对比](https://blog.csdn.net/weixin_51133173/article/details/137749275)
+- [sin(wt)频率叠加: Fourier逆变换](https://blog.csdn.net/weixin_51133173/article/details/137751220)
+    - [Fourier变换](https://blog.csdn.net/weixin_51133173/article/details/137751396)
+- [局部sin(wt): Fourier逆变换](https://blog.csdn.net/weixin_51133173/article/details/137751528)
+    - [Fourier变换](https://blog.csdn.net/weixin_51133173/article/details/137751758)
+- [sin(wt)局部叠加sin(wt): Fourier逆变换](https://blog.csdn.net/weixin_51133173/article/details/137751883)
+    - [Fourier变换](https://blog.csdn.net/weixin_51133173/article/details/137751982)
+- [sin(wt)拼接sin(wt): Fourier逆变换](https://blog.csdn.net/weixin_51133173/article/details/137752083)
+    - [Fourier变换](https://blog.csdn.net/weixin_51133173/article/details/137752237)
+ 
+### 窗函数
+[常用窗函数](https://blog.csdn.net/weixin_51133173/article/details/137752335)
+
+
+
+
+
+
 
