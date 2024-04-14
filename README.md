@@ -35,3 +35,31 @@
 ### 复变函数-Taylor级数
 [常用函数的Taylor级数](https://zhuanlan.zhihu.com/p/691968998)
 
+### Fourier级数-实数形式
+[介绍](https://blog.csdn.net/weixin_51133173/article/details/137690409)
+- [方波](https://blog.csdn.net/weixin_51133173/article/details/137696015)
+    - [积分定义求an/bn](https://blog.csdn.net/weixin_51133173/article/details/137696749)
+- [t^2](https://blog.csdn.net/weixin_51133173/article/details/137698030)
+    - [积分定义求an/bn](https://blog.csdn.net/weixin_51133173/article/details/137698755)
+- [t/pi](https://blog.csdn.net/weixin_51133173/article/details/137714240)
+    - [积分定义求an/bn](https://blog.csdn.net/weixin_51133173/article/details/137715125)
+
+### Fourier级数-复数形式
+[介绍](https://blog.csdn.net/weixin_51133173/article/details/137717915)
+- [方波](https://blog.csdn.net/weixin_51133173/article/details/137717416)
+- [t^2](https://blog.csdn.net/weixin_51133173/article/details/137720716)
+- [t/pi](https://blog.csdn.net/weixin_51133173/article/details/137725845)
+
+### Fourier积分
+[复数形式的级数-->积分形式](https://blog.csdn.net/weixin_51133173/article/details/137726469)
+- [方波](https://blog.csdn.net/weixin_51133173/article/details/137727299)
+- [t^2](https://blog.csdn.net/weixin_51133173/article/details/137728967)
+- [t/pi](https://blog.csdn.net/weixin_51133173/article/details/137729078)
+
+### Fourier变换-复数形式
+[介绍](https://blog.csdn.net/weixin_51133173/article/details/137729104)
+- [矩形脉冲函数](https://blog.csdn.net/weixin_51133173/article/details/137729126)
+- [指数衰减函数](https://blog.csdn.net/weixin_51133173/article/details/137729149)
+- [钟形脉冲函数](https://blog.csdn.net/weixin_51133173/article/details/137740395)
+
+
